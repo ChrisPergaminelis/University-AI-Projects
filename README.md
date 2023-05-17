@@ -8,4 +8,4 @@ Uniform Cost, A-star search algorithms and Minimax based game. University of Ioa
        -Χρήστος Περγαμηνέλης
        -Βασίλειος Μπίνας
 
-Ο σύνδεσμος για την εκφώνηση των ασκήσεων δίνεται [εδώ](https://www.cs.uoi.gr/~arly/courses/ai/askhsh2021.pdf)
+
